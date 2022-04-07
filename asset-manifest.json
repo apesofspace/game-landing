@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.896e96db.chunk.css",
-    "main.js": "./static/js/main.9d737f47.chunk.js",
-    "main.js.map": "./static/js/main.9d737f47.chunk.js.map",
+    "main.css": "./static/css/main.fe51e523.chunk.css",
+    "main.js": "./static/js/main.18a7d4e9.chunk.js",
+    "main.js.map": "./static/js/main.18a7d4e9.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9e3cb453.js",
     "runtime-main.js.map": "./static/js/runtime-main.9e3cb453.js.map",
     "static/css/2.2e56c96a.chunk.css": "./static/css/2.2e56c96a.chunk.css",
-    "static/js/2.4ff4ab70.chunk.js": "./static/js/2.4ff4ab70.chunk.js",
-    "static/js/2.4ff4ab70.chunk.js.map": "./static/js/2.4ff4ab70.chunk.js.map",
+    "static/js/2.31d48684.chunk.js": "./static/js/2.31d48684.chunk.js",
+    "static/js/2.31d48684.chunk.js.map": "./static/js/2.31d48684.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.2e56c96a.chunk.css.map": "./static/css/2.2e56c96a.chunk.css.map",
-    "static/css/main.896e96db.chunk.css.map": "./static/css/main.896e96db.chunk.css.map",
-    "static/js/2.4ff4ab70.chunk.js.LICENSE.txt": "./static/js/2.4ff4ab70.chunk.js.LICENSE.txt",
+    "static/css/main.fe51e523.chunk.css.map": "./static/css/main.fe51e523.chunk.css.map",
+    "static/js/2.31d48684.chunk.js.LICENSE.txt": "./static/js/2.31d48684.chunk.js.LICENSE.txt",
     "static/media/1team.625b4b4e.png": "./static/media/1team.625b4b4e.png",
     "static/media/1team@2x.630ee69d.png": "./static/media/1team@2x.630ee69d.png",
     "static/media/2team.5d0f1a2e.png": "./static/media/2team.5d0f1a2e.png",
@@ -64,6 +64,7 @@
     "static/media/lady-5@2x.c4bbc296.png": "./static/media/lady-5@2x.c4bbc296.png",
     "static/media/linkedin.41154832.svg": "./static/media/linkedin.41154832.svg",
     "static/media/logo@2x.93ddde89.png": "./static/media/logo@2x.93ddde89.png",
+    "static/media/nft-calendar-transparent.c5ef49e5.png": "./static/media/nft-calendar-transparent.c5ef49e5.png",
     "static/media/partner1@2x.aa2eb011.png": "./static/media/partner1@2x.aa2eb011.png",
     "static/media/partner3@2x.bb9de944.png": "./static/media/partner3@2x.bb9de944.png",
     "static/media/partner4@2x.ea6f30b8.png": "./static/media/partner4@2x.ea6f30b8.png",
@@ -88,8 +89,8 @@
   "entrypoints": [
     "static/js/runtime-main.9e3cb453.js",
     "static/css/2.2e56c96a.chunk.css",
-    "static/js/2.4ff4ab70.chunk.js",
-    "static/css/main.896e96db.chunk.css",
-    "static/js/main.9d737f47.chunk.js"
+    "static/js/2.31d48684.chunk.js",
+    "static/css/main.fe51e523.chunk.css",
+    "static/js/main.18a7d4e9.chunk.js"
   ]
 }
