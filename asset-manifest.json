@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.af81591a.chunk.css",
-    "main.js": "./static/js/main.5953e65b.chunk.js",
-    "main.js.map": "./static/js/main.5953e65b.chunk.js.map",
+    "main.css": "./static/css/main.5c9ef3e8.chunk.css",
+    "main.js": "./static/js/main.66fb4c73.chunk.js",
+    "main.js.map": "./static/js/main.66fb4c73.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9e3cb453.js",
     "runtime-main.js.map": "./static/js/runtime-main.9e3cb453.js.map",
     "static/css/2.2e56c96a.chunk.css": "./static/css/2.2e56c96a.chunk.css",
-    "static/js/2.82738fc5.chunk.js": "./static/js/2.82738fc5.chunk.js",
-    "static/js/2.82738fc5.chunk.js.map": "./static/js/2.82738fc5.chunk.js.map",
+    "static/js/2.7d3ea175.chunk.js": "./static/js/2.7d3ea175.chunk.js",
+    "static/js/2.7d3ea175.chunk.js.map": "./static/js/2.7d3ea175.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.2e56c96a.chunk.css.map": "./static/css/2.2e56c96a.chunk.css.map",
-    "static/css/main.af81591a.chunk.css.map": "./static/css/main.af81591a.chunk.css.map",
-    "static/js/2.82738fc5.chunk.js.LICENSE.txt": "./static/js/2.82738fc5.chunk.js.LICENSE.txt",
+    "static/css/main.5c9ef3e8.chunk.css.map": "./static/css/main.5c9ef3e8.chunk.css.map",
+    "static/js/2.7d3ea175.chunk.js.LICENSE.txt": "./static/js/2.7d3ea175.chunk.js.LICENSE.txt",
     "static/media/1team.625b4b4e.png": "./static/media/1team.625b4b4e.png",
     "static/media/1team@2x.630ee69d.png": "./static/media/1team@2x.630ee69d.png",
     "static/media/2team.5d0f1a2e.png": "./static/media/2team.5d0f1a2e.png",
@@ -33,6 +33,10 @@
     "static/media/Monkey@2x.8f8cc6b5.png": "./static/media/Monkey@2x.8f8cc6b5.png",
     "static/media/Monkeys.70984d19.png": "./static/media/Monkeys.70984d19.png",
     "static/media/Monkeys@2x.4e6e9806.png": "./static/media/Monkeys@2x.4e6e9806.png",
+    "static/media/aos-3d-art-whitelist-1.b5f6780c.png": "./static/media/aos-3d-art-whitelist-1.b5f6780c.png",
+    "static/media/aos-3d-art-whitelist-1@2x.17a7fe78.png": "./static/media/aos-3d-art-whitelist-1@2x.17a7fe78.png",
+    "static/media/aos-3d-art-whitelist.b9dc4f0c.png": "./static/media/aos-3d-art-whitelist.b9dc4f0c.png",
+    "static/media/aos-3d-art-whitelist@2x.50c5931e.png": "./static/media/aos-3d-art-whitelist@2x.50c5931e.png",
     "static/media/ape3-1.49919239.png": "./static/media/ape3-1.49919239.png",
     "static/media/ape3-1@2x.bebcfd84.png": "./static/media/ape3-1@2x.bebcfd84.png",
     "static/media/ape3-2.50014720.png": "./static/media/ape3-2.50014720.png",
@@ -61,6 +65,8 @@
     "static/media/linkedin.41154832.svg": "./static/media/linkedin.41154832.svg",
     "static/media/logo@2x.93ddde89.png": "./static/media/logo@2x.93ddde89.png",
     "static/media/nft-calendar-transparent.c5ef49e5.png": "./static/media/nft-calendar-transparent.c5ef49e5.png",
+    "static/media/partner2.b70b5723.png": "./static/media/partner2.b70b5723.png",
+    "static/media/partner5.660c0888.png": "./static/media/partner5.660c0888.png",
     "static/media/purple-el.2d6167f3.svg": "./static/media/purple-el.2d6167f3.svg",
     "static/media/red-el.90cf8725.svg": "./static/media/red-el.90cf8725.svg",
     "static/media/road-1200.f8301775.svg": "./static/media/road-1200.f8301775.svg",
@@ -82,8 +88,8 @@
   "entrypoints": [
     "static/js/runtime-main.9e3cb453.js",
     "static/css/2.2e56c96a.chunk.css",
-    "static/js/2.82738fc5.chunk.js",
-    "static/css/main.af81591a.chunk.css",
-    "static/js/main.5953e65b.chunk.js"
+    "static/js/2.7d3ea175.chunk.js",
+    "static/css/main.5c9ef3e8.chunk.css",
+    "static/js/main.66fb4c73.chunk.js"
   ]
 }
